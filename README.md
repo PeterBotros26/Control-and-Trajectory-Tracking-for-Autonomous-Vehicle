@@ -111,7 +111,7 @@ pip3 install matplotlib
 ## Project Report:
 
 The image below shows the ego car in the CARLA simulator at the starting point.
-<img src="/img/1.png"/>
+<img src="/img/1.PNG"/>
 
 
 
@@ -121,7 +121,7 @@ The image below shows the ego car in the CARLA simulator at the starting point.
 
 | Plot: PID Steering Errors               | Plot: PID Throttle Errors               |
 |:---------------------------------------:|:---------------------------------------:|
-| <img src="/img/2.png"/> | <img src="/img/3.png"/> |
+| <img src="/img/2.PNG"/> | <img src="/img/3.PNG"/> |
 
 **Steering plot**: In the beginning, an oscillation with significant steering errors is kept along the ride by the iterations. The peaks are avoided obstacles on the road while always recovering to keep on track.
 
